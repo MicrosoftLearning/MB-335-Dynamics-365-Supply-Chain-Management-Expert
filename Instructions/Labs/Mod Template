@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Case study filename'
-    module: 'Module 3 filename'
+    module: 'Module # filename'
 ---
 
 # Lab: Deploying Azure Resource Manager templates

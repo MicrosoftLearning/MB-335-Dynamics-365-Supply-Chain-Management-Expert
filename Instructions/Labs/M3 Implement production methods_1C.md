@@ -153,7 +153,7 @@ You will have to do the following:
 
 8. Select **Save** in the action pane.
 
-9. Note the **Plan status** field for the version is set to **Draft**.
+9. Ensure that the **Plan status** field for the version is set to **Draft**.
 
 10. Close all forms.
 

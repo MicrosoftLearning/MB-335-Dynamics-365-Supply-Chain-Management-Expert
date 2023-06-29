@@ -126,8 +126,8 @@ You will have to do the following:
 4. In the **Product name** field, enter or select **Gasoline**.
 
 5. In the **Item model group** field, enter or select **PI FEFO**
-    (Note: For prioritized consumption on limited shelf life, FEFO is
-    recommended.)
+    > **Note** For prioritized consumption on limited shelf life, FEFO is
+    recommended.
 
 6. In the **Item group** field, enter or select **Cleaner**.
 
@@ -135,7 +135,8 @@ You will have to do the following:
     WH**
 
 8. In the **Tracking dimension group** field, enter or select
-    **Batch-CP**. (Note: To use the shelf-life settings on the released
+    **Batch-CP**.
+    > **Note** To use the shelf-life settings on the released
     products details page on the General FastTab, set the **Tracking
     dimension group** field to a tracking dimension group that is set up
     to track the batch dimension. You can set this field only when
@@ -145,14 +146,14 @@ You will have to do the following:
 
 9. In the **Inventory unit** field, enter or select **gal**.
 
-10. In the **Purchase unit** field, enter or select **gal**. (Note: you
-    may need to change the dropdown in the selection menu to **All**.)
+10. In the **Purchase unit** field, enter or select **gal**. 
+    > **Note** You may need to change the dropdown in the selection menu to **All**.
 
-11. In the **Sales unit** field, enter or select **gal**. (Note: you may
-    need to change the dropdown in the selection menu to **All**.)
+11. In the **Sales unit** field, enter or select **gal**.
+    > **Note** You may need to change the dropdown in the selection menu to **All**.
 
-12. In the **BOM unit** field, enter or select **gal**. (Note: you may
-    need to change the dropdown in the selection menu to **All**.)
+12. In the **BOM unit** field, enter or select **gal**. 
+    > **Note** You may need to change the dropdown in the selection menu to **All**.
 
 13. Select **OK**.
 
@@ -364,8 +365,8 @@ You will have to do the following:
     products**.
 
 2. Use the Quick Filter to find records. For example, filter on the
-    Item number field with a value of **p15000**. Note the lowercase --
-    it is not case sensitive.
+    Item number field with a value of **p15000**. 
+    > **Note** This is not case sensitive.
 
 3. Select the ellipsis, if needed, to get to the **Engineer** tab on
     the action pane.
@@ -397,10 +398,10 @@ You will have to do the following:
 
 2. Select **New**.
 
-3. In the **Item number** field, enter or select **M12000**. (Note:
-    When you select **New**, you may need to change the dropdown in the
-    selection menu to **Other**, select the Item number and then select
-    **Ok**.)
+3. In the **Item number** field, enter or select **M12000**. 
+
+    > **Note** When you select **New**, you may need to change the dropdown in the selection menu to **Other**, select the Item number and then select
+    **Ok**.
 
 4. In the **Warehouse** field, enter or select 11.
 
@@ -408,10 +409,9 @@ You will have to do the following:
 
 6. Select **New**.
 
-7. In the **Item number** field, enter or select **M2001**. (Note: When
-    you select **New**, you may need to change the dropdown in the
-    selection menu to **Other**, select the Item number and then select
-    **Ok**.)
+7. In the **Item number** field, enter or select **M2001**. 
+    > **Note** When you select **New**, you may need to change the dropdown in the selection menu to **Other**, select the Item number and then select
+    **Ok**.
 
 8. Set **Quantity** to **600**.
 
@@ -599,9 +599,8 @@ You will have to do the following:
 
 5. In the Formula lines fast tab, select **New**.
 
-6. In the **Item number** field, enter or select **M9103**. (Note: When
-    you select New, you may need to change the dropdown in the selection
-    menu to **Other**, select the Item number and then select Ok.)
+6. In the **Item number** field, enter or select **M9103**. 
+    > **Note** When you select New, you may need to change the dropdown in the selection menu to **Other**, select the Item number and then select **Ok**.
 
 7. Set **Quantity** to **800**.
 
@@ -823,8 +822,7 @@ vitamin compounds)**
 
 2. Select or clear the **Scalable** check boxes.
 
-> **Note** Make sure that the Scalable check boxes for other products are
-> checked except for Vitamin A, Vitamin C, Vitamin E.*
+    > **Note** Make sure that the Scalable check boxes for other products are checked except for Vitamin A, Vitamin C, Vitamin E.
 
 3. Select **Save**.
 
@@ -970,8 +968,7 @@ vitamin compounds)**
 
 2. Select or clear the **Scalable** check boxes.
 
-    > **Note** Make sure that the Scalable check boxes for other products are
-    > checked except for Vitamin A, Vitamin C, Vitamin E.
+    > **Note** Make sure that the Scalable check boxes for other products are checked except for Vitamin A, Vitamin C, Vitamin E.
 
 3. Select **Save**.
 
@@ -1284,7 +1281,7 @@ You will have to do the following:
 
 2. Select **New**.
 
-3. Note that the **Cost basis type** field is set to **NYMEX**.
+3. Ensure that the **Cost basis type** field is set to **NYMEX**.
 
 4. In the **Run effective date** field, enter todays date.
 
@@ -1922,7 +1919,7 @@ You will have to do the following:
 
 10. In the **Actions** group, select **Confirm**.
 
-11. Note the purchase order number.
+11. Notate the purchase order number.
 
 12. Close the page.
 
@@ -2900,20 +2897,19 @@ You will have to do the following:
     "Blank is not allowed in the ProductGroup field for the
     combination." Please follow the below steps.
 
-3. Navigate to General Ledger \> Chart of Account \> Structures \>
-    Configure account structures.
+3. Navigate to **General Ledger \> Chart of Account \> Structures \>
+    Configure account structures**.
 
-4. Search for Manufacturing PI P&L
+4. Search for **Manufacturing PI P&L**
 
 5. Make sure for the main accounts, the "Blank values are allowed"
     option is checked
 
-6. Click on Activate from the Action pane
+6. Click on **Activate** from the Action pane
 
-7. Click on Activate
+7. Click on **Activate**
 
-    > **Note** Once the above steps are completed, please perform steps from "Receive
-and enter a batch attribute value to post the order".
+    > **Note** Once the above steps are completed, please perform steps from "Receive and enter a batch attribute value to post the order".
 
 8. On the Action Pane, select **Invoice**.
 

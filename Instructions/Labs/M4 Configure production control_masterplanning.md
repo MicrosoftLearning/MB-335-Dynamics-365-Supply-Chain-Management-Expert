@@ -40,8 +40,8 @@ You will have to do the following:
 
 #### Steps
 
-**Note: Before the execution of this task, credit management needs to be
-disabled. Complete the following steps:**
+Before the execution of this task, credit management needs to be
+disabled. Complete the following steps:
 
 1. Open the **Sales and marketing \> Customers \> All customers**
     module.

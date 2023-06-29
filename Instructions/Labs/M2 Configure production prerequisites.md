@@ -242,8 +242,8 @@ You will have to do the following:
 
 22. **Close** all pages.
 
-- \[!NOTE\] The message bar may appear with a message that states,
-    > \"There exist no relation for operation Padding.\" The route
+    >**NOTE** The message bar may appear with a message that states,
+    > \"There exist no relation for operation Padding." The route
     > contains the order of operations and the assignment of operations
     > will occur in the next steps.
 

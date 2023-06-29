@@ -1,8 +1,7 @@
 ---
 lab:
-    title: 'Lab: Deploying Azure Resource Manager templates'
-    type: 'Answer Key'
-    module: 'Module 1: Exploring Azure Resource Manager'
+    title: 'Case study 1B Discrete, Process and Lean manufacturing features'
+    module: 'Module 3 Implement production methods'
 ---
 
 # Lab: Deploying Azure Resource Manager templates
@@ -61,3 +60,17 @@ lab:
 #### Review
 
 Maecenas fringilla ac purus non tincidunt. Aenean pellentesque velit id suscipit tempus. Cras at ullamcorper odio.
+
+Case study 1B Discrete, Process and Lean manufacturing features
+---------------------------------------------------------------
+
+### Exercise \#1: 
+
+
+
+
+
+Case study 1C Lean manufacturing
+---------------------------------------------------------------
+
+### Exercise \#1: 

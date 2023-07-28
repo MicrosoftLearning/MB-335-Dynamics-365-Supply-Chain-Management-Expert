@@ -48,12 +48,12 @@ disabled. Complete the following steps:
 
 2. Search for customer **US-013.**
 
-3. Open the details for US-013.
+3. Open the details for **US-013**.
 
 4. Expand the **Credit and collections** FastTab.
 
 5. Select **Edit**. Set **Unlimited credit limit** and **Exclude from
-    credit management** to Yes.
+    credit management** to **Yes**.
 
 6. Select **Save**.
 
@@ -71,7 +71,7 @@ disabled. Complete the following steps:
 
 5. In the **Sales order** form, open the **Sales order Lines** FastTab.
 
-6. Enter or select **D0003** in the Item number field.
+6. Enter or select **D0003** in the **Item number** field.
 
 7. Enter or select **12** in the **Quantity** field.
 
@@ -186,7 +186,7 @@ You will have to do the following:
 
 **Create an intercompany planning group**
 
-1. In the USMF Company, select **Show navigation pane**.
+1. In the **USMF** Company, select **Show navigation pane**.
 
 2. Open **Master planning \> Setup \> Intercompany planning groups**.
 
@@ -231,44 +231,47 @@ You will have to do the following:
 7. Select **Finish** on the **Completed** page after verifying the
     information is correct.
 
-8. Switch to DEMF, perform step 1 - 7.
+8. Switch to **DEMF**, perform steps 1 - 7.
 
 9. Switch to the **USMF** company.
 
-10. Select **Demand Forecasting \> Intercompany Planning Groups**.
+10. Select **Master Planning \> Demand Forecasting \> Intercompany Planning Groups**.
 
-11. Select the intercompany group that we created -- **40** . Select
-    **Item Allocation Keys.**
+11. Select Intercompany planning group **40** previously created.
 
-12. Select **Audio** under the **Unassigned Item Allocation Keys** box,
+12. Under **Intercompany planning group members**, select **Item Allocation Keys.**
+
+13. Select **Audio** under the **Unassigned Item Allocation Keys** box,
     then select **\>** to move it to the **Assigned Allocation Keys**
     box.
 
+14. Close the page.
+
 **Set Base Calendar**
 
-1. Select **DEMF** entity , select **Organization Administration \>
-    Setup \> Calendars \> Calendars**
+1. Select **DEMF** as the legal entity , select **Organization Administration \>
+    Setup \> Calendars \> Calendars**.
 
-2. You should see Calendar named **Standard**, on the top menu click on
-    **working times**.
+2. You should see Calendar named **Standard**. On the top menu, select
+    **Working times**.
 
-3. Click on **compose working times**, select **Standard** under
+3. Select **Compose working times**, select **Standard** under
     **Calendar.** Enable the **Use Base Calendar** button. Then set
     **Start and End Date** from **1 JAN 2023** to **31 Dec 2023**.
 
-4. click **OK.**
+4. Select **OK.**
 
 5. Set **Open** period as Master planning running date for today's
     date.
 
-6. On Working times, click on **Add** and then select **Save**.
+6. On **Working times**, click on **Add** and then select **Save**.
 
 **Run an intercompany master plan**
 
 1. In the USMF company, select the **Show navigation pane**.
 
-2. Open **Master planning** \> Master Planning \> **Run** \>
-    **Intercompany master planning**.
+2. Open **Master planning \> Master Planning \> Run \>
+    Intercompany master planning**.
 
 3. Select **60** for **Intercompany planning group**.
 

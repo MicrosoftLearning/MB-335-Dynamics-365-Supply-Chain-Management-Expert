@@ -899,19 +899,19 @@ You will have to do the following:
 
 2. Select **New**.
 
-3. In the **Product number** field, enter or select **\'P6100\'**.
+3. In the **Product number** field, enter or select **P6100**.
 
-4. In the **Product name** field, enter or select '**Orange Juice\'**.
+4. In the **Product name** field, enter or select **Orange Juice**.
 
-5. In the **Search name** field, enter or select **\'Orange Juice\'**.
+5. In the **Search name** field, enter or select **Orange Juice**.
 
-6. In the **Item model group** field, enter or select FEFO.
+6. In the **Item model group** field, enter or select **FEFO**.
 
-7. In the **Item group field**, enter or select AdditiveRM.
+7. In the **Item group field**, enter or select **AdditiveRM**.
 
-8. In the **Storage dimension group** field, enter or select SiteWH.
+8. In the **Storage dimension group** field, enter or select **SiteWH**.
 
-9. In the **Tracking dimension group** field, enter or select Batch-CP.
+9. In the **Tracking dimension group** field, enter or select **Batch-CP**.
 
 10. In the **Inventory unit** field, enter or select **gal**.
 
@@ -923,10 +923,10 @@ You will have to do the following:
 
 14. Select **OK**.
 
-15. In the **Production type** field in the Engineer FastTab, select
+15. In the **Production type** field in the **Engineer** FastTab, select
     **\'Formula\'**.
 
-16. In the **Shelf life period in days** field in the Manage inventory
+16. In the **Shelf life period in days** field in the **Manage inventory**
     Fast Tab, enter **180**.
 
 17. Select **Save**.
@@ -968,7 +968,7 @@ vitamin compounds)**
 
 2. Select or clear the **Scalable** check boxes.
 
-    > **Note** Make sure that the Scalable check boxes for other products are checked except for Vitamin A, Vitamin C, Vitamin E.
+    > **Note** Make sure that the Scalable check boxes for other products are checked **except for Vitamin A, Vitamin C, Vitamin E**.
 
 3. Select **Save**.
 
@@ -1063,7 +1063,7 @@ You will have to do the following:
 
 9. Select the **Copy** option.
 
-10. In the **Site** field, enter or select 1.
+10. In the **Site** field, enter or select **1**.
 
 11. Select **OK**.
 
@@ -1102,7 +1102,7 @@ set the step levels**
 
 **Date out the old formula and date in the new one**
 
-1. Go to **Product information management\>Products\>Released
+1. Go to **Product information management \>Products \>Released
     products**.
 
 2. Use the Quick Filter to filter on the **Item number** field with a
@@ -1110,7 +1110,7 @@ set the step levels**
 
 3. In the list, select the link in the selected row for **P9500**.
 
-4. Select Engineer \> Formula \> **Formula versions**.
+4. Select **Engineer \> Formula \> Formula versions**.
 
 5. In the list, find and select the old formula.
 
@@ -1234,7 +1234,7 @@ You will have to do the following:
 6. Set **Margin percentage** to **45**.
 
 7. In the **Warehouse** field, enter **12**. If it's not visible, find
-    it in the Dimension fast tab.
+    it in the **Dimension** fast tab.
 
 8. Select **Save**.
 

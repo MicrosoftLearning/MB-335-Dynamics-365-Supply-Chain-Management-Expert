@@ -688,7 +688,7 @@ line** \> **Display** and select the **Dimensions** button. Choose the location 
 
 10. Select **Configuration 01**.
 
-11. Click on **Save**.
+11. Select on **Save**.
 
 12. Select the **Product and supply \> View pegging tree** menu button
     to view the event Kanbans created for the sales order.

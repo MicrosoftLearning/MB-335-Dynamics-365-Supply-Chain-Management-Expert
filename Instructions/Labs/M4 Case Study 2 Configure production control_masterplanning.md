@@ -264,11 +264,11 @@ You will have to do the following:
 5. Set **Open** period as Master planning running date for today's
     date.
 
-6. On **Working times**, click on **Add** and then select **Save**.
+6. On **Working times**, select on **Add** and then select **Save**.
 
 **Run an intercompany master plan**
 
-1. In the USMF company, select the **Show navigation pane**.
+1. In **USMF**, select the **Show navigation pane**.
 
 2. Open **Master planning \> Master Planning \> Run \>
     Intercompany master planning**.

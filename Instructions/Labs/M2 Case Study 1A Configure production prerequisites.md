@@ -153,7 +153,7 @@ You will have to do the following:
 
 7. Accept the default **Level** of 0.00.
 
-8. Repeat steps 3 to 7, for the resource 5111 [and click Save]{.mark}.
+8. Repeat steps 3 to 7, for the resource **5111** and select **Save**.
 
 9. Close the **Resource capabilities** page.
 
@@ -894,7 +894,7 @@ You will have to do the following:
 
 31. Select **OVH4**.
 
-32. Set **Profit percentage** to **80.00**. Click on Save
+32. Set **Profit percentage** to **80.00**. Select on **Save**.
 
 33. Close all pages.
 

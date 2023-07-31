@@ -328,7 +328,7 @@ You will have to do the following:
 
 6. Select **OK**.
 
-7. Click on Generate flows and click on OK
+7. Select on **Generate flows** and select **OK**
 
 8. In the **Product** field, enter or select **L0001**.
 

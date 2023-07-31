@@ -745,7 +745,7 @@ You will have to do the following:
 2. Select **Approve formula**.
 
 3. In the **Approved by** field, enter or select **000528** for Glen
-    John and click **OK**.
+    John and select **OK**.
 
 4. Close the screen to go back to the Formula versions screen.
 
@@ -1131,9 +1131,9 @@ set the step levels**
 1. Select **Formulas\>Formula**. Select **Approve Formula.**
 
 2. In the **Approved by** field, enter or select **000528** for Glen
-    John. Click OK.
+    John. Select OK.
 
-3. Select Header tab then click Approval and enter **000528** for Glen
+3. Select Header tab then select Approval and enter **000528** for Glen
     John.
 
 4. Select **OK**.
@@ -1857,7 +1857,7 @@ You will have to do the following:
 
 2. Select **Inventory batch attributes**.
 
-3. Click **New** then click Attribute dropdown icon and select
+3. Select **New** then select Attribute dropdown icon and select
     **MeltingPoint**. Select **Load item attributes**.
 
 4. In the **Attribute value** field, enter or select **163**.
@@ -2602,11 +2602,11 @@ You will have to do the following:
 
 3. Select **Save**.
 
-    >**Note** In case if Base attribute column is not visible click three
-    dots and click Insert columns. Search for b and select Base
+    >**Note** In case if Base attribute column is not visible select three
+    dots and select Insert columns. Search for b and select Base
     attribute.
 
-4. Click **Update**.
+4. Select **Update**.
 
 5. In the **Base attribute** field, enter or select **Acidity**.
 
@@ -2701,7 +2701,7 @@ You will have to do the following:
 
 3. In the list, select the new formula version.
 
-4. In the **From date** field, enter current date and click Formula
+4. In the **From date** field, enter current date and select Formula
     version tab on the Action pane.
 
 5. Select **Approval.**
@@ -2905,9 +2905,9 @@ You will have to do the following:
 5. Make sure for the main accounts, the "Blank values are allowed"
     option is checked
 
-6. Click on **Activate** from the Action pane
+6. Select on **Activate** from the Action pane
 
-7. Click on **Activate**
+7. Select on **Activate**
 
     > **Note** Once the above steps are completed, please perform steps from "Receive and enter a batch attribute value to post the order".
 
@@ -2957,23 +2957,23 @@ Configuring Working time calendar
 
 1. Go to **Production Control \> Setup \> Calendars\> Calendars**.
 
-2. Select 24hr and click **Working times.**
+2. Select **24hr** and select **Working times.**
 
 3. Select **Compose working times.**
 
-4. In To date field, enter date.
+4. In **To date** field, enter date.
 
-5. In Working time template, select **24hr**. Click **OK**.
+5. In **Working time template** field, select **24hr**. Select **OK**.
 
 6. Close the page once the operation is completed.
 
 7. Close it again till you reach Working time calendars page.
 
-8. Select **8hr** and click **Working times**.
+8. Select **8hr** and select **Working times**.
 
-9. Click **Compose working times**.
+9. Select **Compose working times**.
 
-17. In Working time template field enter **8Hr**. Click **OK**.
+10. In **Working time template** field enter **8Hr**. Select **OK**.
 
 **Create a batch order for part P2000 and process the batch order
 through Start**
@@ -3033,7 +3033,7 @@ M2005. Proceed with creating a Purchase orders for M2002 and M2005.
 
 8. Select **Report as finished**.
 
-9. Select a value in **Batch number** field and then click on the same
+9. Select a value in **Batch number** field and then select on the same
     batch number
 
 10. Select **New**.

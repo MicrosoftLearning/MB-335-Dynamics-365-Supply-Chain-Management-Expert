@@ -305,9 +305,9 @@ You will have to do the following:
 
 67. Close the **Activities** page.
 
-68. Select version 1 and enter or select **Deactivate.** Select **OK**.
+68. Select **version 1** and enter or select **Deactivate.** Select **OK**.
 
-69. Select version 2 and enter or select **Activate.** Select **OK**.
+69. Select **version 2** and enter or select **Activate.** Select **OK**.
 
 70. Close all forms.
 

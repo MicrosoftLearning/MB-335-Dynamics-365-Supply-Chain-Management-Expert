@@ -79,12 +79,14 @@ disabled. Complete the following steps:
 
 9. Select **Save**.
 
-10. Select **Confirm sales order** from the **Sell** tab in the Action
-    pane.
+10. From the **Sell** tab in the Action pane, under **Generate**, select **Confirm sales order**.
 
 11. Accept all the default settings in the **Confirm sales order** form.
 
-12. Select **OK**.
+12. Select **OK** on the sales order confirmation screen.
+
+    >**NOTE** A message may appear stating,
+    > \"You are about to post the document without printing it. Select OK to continue."
 
 13. Select **OK**.
 
@@ -135,7 +137,7 @@ disabled. Complete the following steps:
 
 3. Select the **Planned order** tab in the action pane.
 
-4. Select the Change to drop-down arrow in the Maintain area.
+4. Select the **Change to** drop-down arrow in the **Maintain** group.
 
 5. Select **Planned production order**.
 
@@ -186,7 +188,7 @@ You will have to do the following:
 
 **Create an intercompany planning group**
 
-1. In the **USMF** Company, select **Show navigation pane**.
+1. In **USMF**, select **Show navigation pane**.
 
 2. Open **Master planning \> Setup \> Intercompany planning groups**.
 
@@ -231,7 +233,7 @@ You will have to do the following:
 7. Select **Finish** on the **Completed** page after verifying the
     information is correct.
 
-8. Switch to **DEMF**, perform steps 1 - 7.
+8. Switch to **DEMF** and perform steps 1 - 7.
 
 9. Switch to the **USMF** company.
 
@@ -261,10 +263,12 @@ You will have to do the following:
 
 4. Select **OK.**
 
-5. Set **Open** period as Master planning running date for today's
+5. In the **Control** column, set **Open** period as Master planning running date for today's
     date.
 
-6. On **Working times**, select on **Add** and then select **Save**.
+6. Select **Save**.
+
+7. On **Working times**, select on **Add** and then select **Save**.
 
 **Run an intercompany master plan**
 

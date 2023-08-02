@@ -1045,11 +1045,11 @@ You will have to do the following:
 
 8. In the **Profile group** field, enter or select **Man**.
 
-9. Select **Yes** in the **Use timecard** field.
+9. Set the **Use timecard** toggle to **Yes**.
 
 10. In the **Configuration** field, enter or select **Production**.
 
-11. Select **Yes** in the **Supervisor options** field.
+11. Set the **Supervisor options** toggle to **Yes**.
 
 12. Select **OK**.
 
@@ -1060,71 +1060,69 @@ You will have to do the following:
 
 15. Select **Edit**.
 
-16. .
+16. In the **Badge ID** field, enter or select **069**.
 
-17. In the **Badge ID** field, enter or select **069**.
+17. Select **Save**.
 
-18. Select **Save**.
+18. Close the page.
 
-19. Close the page.
-
-20. Go to **Production control \> Manufacturing execution \> Job card
+19. Go to **Production control \> Manufacturing execution \> Job card
     device**.
 
-21. In the **Personnel number** field, enter or select **069**.
+20. In the **Personnel number** field, enter or select **069**.
 
-22. Select **Log in**.
+21. Select **Log in**.
 
-23. Select **Start job**.
+22. Select **Start job**.
 
-24. Set **Quantity to start** to **1.00**.
+23. Set **Quantity to start** to **1.00**.
 
-25. Select **OK**.
+24. Select **OK**.
 
-26. Select **Report progress**.
+25. Select **Report progress**.
 
-27. Set **Error quantity** to **1.00**.
+26. Set **Error quantity** to **1.00**.
 
-28. In the **Error cause** field, select **Material**.
+27. In the **Error cause** field, select **Material**.
 
-29. Select **Complete**.
+28. Select **Complete**.
 
-30. Select **Break**.
+29. Select **Break**.
 
-31. In the list, select **break from work.**
+30. In the list, select **break from work.**
 
-32. Select **OK**.
+31. Select **OK**.
 
-33. Select **Stop break**.
+32. Select **Stop break**.
 
-34. Select **Activity**.
+33. Select **Activity**.
 
-35. In the list, find and select **Equipment repair**
+34. In the list, find and select **Equipment repair**
 
+35. Select **OK**.
+
+    >**Note** A message may appear stating, "You are currently registered on other jobs(s). You need to report feedback on these before commencing on new jobs.''
+  
 36. Select **OK**.
 
-37. Select **OK**.
+37. Set **Error quantity** to **2.00**.
 
-38. Set **Error quantity** to **2.00**.
+38. In the **Error cause** field, enter **Machine**.
 
-39. In the **Error cause** field, enter **Machine**.
+39. In the **Job status** field, select **Stopped**.
 
 40. Select **Complete**.
 
-41. In the **Job status** field, select **Stopped**.
+41. Select **Next job**.
 
-42. Select **Close**.
+42. Select **Previous job**.
 
-43. Select **Next job**.
+43. Select **Report progress**.
 
-44. Select **Previous job**.
+44. Set **Good quantity** to **5.00**.
 
-45. Select **Report progress**.
+45. In the **Job status** field, enter **Completed**.
 
-46. Set **Good quantity** to **5.00**.
+46. Select **Complete**.
 
-47. In the **Job status** field, enter **Completed**.
-
-48. Select **Complete**.
-
-49. Close the page.
+47. Close the page.

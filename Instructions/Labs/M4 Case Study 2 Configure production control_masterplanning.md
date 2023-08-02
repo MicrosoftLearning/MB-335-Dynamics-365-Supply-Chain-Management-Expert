@@ -277,7 +277,7 @@ You will have to do the following:
 2. Open **Master planning \> Master Planning \> Run \>
     Intercompany master planning**.
 
-3. Select **60** for **Intercompany planning group**.
+3. Select **40** for **Intercompany planning group**.
 
 4. Select **2** for **Number of intercompany planning iterations**.
 
@@ -285,7 +285,7 @@ You will have to do the following:
 
 6. Select **Net change** for **Subsequent iteration**.
 
-7. Select **Track processing time** setting slider to **No**.
+7. Acceot the default **Track processing time** setting as **No**.
 
 8. Set **Number of threads** to **0**.
 

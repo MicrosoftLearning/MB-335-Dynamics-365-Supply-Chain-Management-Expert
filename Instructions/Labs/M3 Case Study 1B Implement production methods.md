@@ -822,7 +822,7 @@ vitamin compounds)**
 
 2. Select or clear the **Scalable** check boxes.
 
-    > **Note** Make sure that the Scalable check boxes for other products are checked except for Vitamin A, Vitamin C, Vitamin E.
+    > **Note** Make sure that the Scalable check boxes for other products are checked **except** for Vitamin A, Vitamin C, Vitamin E.
 
 3. Select **Save**.
 
@@ -968,7 +968,7 @@ vitamin compounds)**
 
 2. Select or clear the **Scalable** check boxes.
 
-    > **Note** Make sure that the Scalable check boxes for other products are checked **except for Vitamin A, Vitamin C, Vitamin E**.
+    > **Note** Make sure that the Scalable check boxes for other products are checked **except** for Vitamin A, Vitamin C, Vitamin E.
 
 3. Select **Save**.
 

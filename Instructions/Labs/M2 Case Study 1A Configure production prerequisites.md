@@ -151,7 +151,7 @@ You will have to do the following:
 
 6. Enter or select **1** in the **Priority** field.
 
-7. Accept the default **Level** of 0.00.
+7. Accept the default **Level** of **0.00**.
 
 8. Repeat steps 3 to 7, for the resource **5111** and select **Save**.
 
@@ -161,7 +161,7 @@ You will have to do the following:
 
 1. Go to **Organization administration \> Resources \> Resources**.
 
-2. Select resource 5111 in the grid.
+2. Select resource **5111** in the grid.
 
 3. Expand the **Capabilities** FastTab.
 
@@ -169,7 +169,7 @@ You will have to do the following:
 
 5. Select **Add** from the toolbar.
 
-6. Enter or select GTL-Packing in the **Capability** field.
+6. Enter or select **GTL-Packing** in the **Capability** field.
 
 7. Accept the default **Effective** date of today\'s date.
 
@@ -214,7 +214,7 @@ You will have to do the following:
 
 8. In the **Operation** field, enter or select **Assembly**.
 
-9. In the Scrap Percentage field, enter **20**.
+9. In the **Scrap Percentage** field, enter **20**.
 
 10. In the **Link type** field, select **Soft**.
 
@@ -224,7 +224,7 @@ You will have to do the following:
 
 13. In the **Operation** field, enter or select **Padding**.
 
-14. In the Scrap percentage field, enter **30**.
+14. In the **Scrap percentage** field, enter **30**.
 
 15. In the **Link type** field, select **Hard**.
 
@@ -236,9 +236,9 @@ You will have to do the following:
 
 19. In the **Operation** field, enter or select **Packing**.
 
-20. Refresh the page.
+20. Select **Save**.
 
-21. Select **Save**.
+21. Refresh the page.
 
 22. **Close** all pages.
 
@@ -265,18 +265,19 @@ You will have to do the following:
 
 31. In the **Formula** field, select **Capacity**.
 
-32. In the **Costing resource** field, enter or select **1211**. A
-    dialogue box appears informing that the default time and cost values
-    from the costing resource will be inserted. Select **Yes** to
-    continue.
+32. In the **Costing resource** field, enter or select **1211**.
 
-33. In the **Route relation** field, enter or select **eBook route**
+    >**NOTE** A dialogue box appears informing that the default time and cost values from the costing resource will be inserted. Do you want to continue?
+
+33. Select **Yes** to continue.
+
+34. In the **Route relation** field, enter or select **eBook route**
     created in previous steps and **Route code** should be set to
     **Route**.
 
-34. Select **Save**.
+35. Select **Save**.
 
-35. Close all pages.
+36. Close all pages.
 
 ### Exercise #5: Create a simple BOM without a version
 
@@ -386,7 +387,7 @@ You will have to do the following:
 6. Select **Bill of materials** on the Action Pane then in the
     **Maintain** group, select **Designer**.
 
-7. Select BOM **lines** on the Action Pane.
+7. Select **BOM lines** on the Action Pane.
 
 8. Select **Add to component BOM**.
 
@@ -394,7 +395,7 @@ You will have to do the following:
 
 10. Select **OK**.
 
-11. Select BOM **lines**.
+11. Select **BOM lines**.
 
 12. Select **Add after line.**
 
@@ -402,7 +403,7 @@ You will have to do the following:
 
 14. Select **OK**.
 
-15. Select BOM **lines**.
+15. Select **BOM lines**.
 
 16. Select **Add before line**.
 

@@ -27,7 +27,7 @@ You will have to do the following:
 **Set up the approved vendor or default vendor**
 
 1. In **USP2** (Navigate to upper right corner of window and change
-    company from USMF to USP2), Go to **Product information management
+    company from **USMF** to **USP2**), Go to **Product information management
     \> Products \> Released products**.
 
 2. Use the Quick Filter to filter on the **Item number** field with a
@@ -38,7 +38,7 @@ You will have to do the following:
 
 4. On the Action Pane, select **Purchase**.
 
-5. In Approved vendor group, select **Setup**.
+5. In **Approved vendor** group, select **Setup**.
 
 6. Select **Add**.
 
@@ -125,34 +125,39 @@ You will have to do the following:
 
 4. In the **Product name** field, enter or select **Gasoline**.
 
-5. In the **Item model group** field, enter or select **PI FEFO**
+5. In the **Item model group** field, enter or select **PI FEFO**.
+
     > **Note** For prioritized consumption on limited shelf life, FEFO is
     recommended.
 
 6. In the **Item group** field, enter or select **Cleaner**.
 
 7. In the **Storage dimension group** field, enter or select **Site
-    WH**
+    WH**.
 
 8. In the **Tracking dimension group** field, enter or select
     **Batch-CP**.
+
     > **Note** To use the shelf-life settings on the released
     products details page on the General FastTab, set the **Tracking
     dimension group** field to a tracking dimension group that is set up
     to track the batch dimension. You can set this field only when
     you\'re first creating a product. If the dimension value is set to
     **None**, the option to edit the shelf life field will be disabled.
-    You can\'t change the value for existing products.)
+    You can\'t change the value for existing products.
 
 9. In the **Inventory unit** field, enter or select **gal**.
 
-10. In the **Purchase unit** field, enter or select **gal**. 
+10. In the **Purchase unit** field, enter or select **gal**.
+
     > **Note** You may need to change the dropdown in the selection menu to **All**.
 
 11. In the **Sales unit** field, enter or select **gal**.
+
     > **Note** You may need to change the dropdown in the selection menu to **All**.
 
-12. In the **BOM unit** field, enter or select **gal**. 
+12. In the **BOM unit** field, enter or select **gal**.
+
     > **Note** You may need to change the dropdown in the selection menu to **All**.
 
 13. Select **OK**.
@@ -175,11 +180,11 @@ You will have to do the following:
 
 3. In the **Product name** field, enter **Kerosene**.
 
-4. In the **Item model group** field, enter or select PI FEFO
+4. In the **Item model group** field, enter or select **PI FEFO**.
 
-5. In the **Item group** field, enter or select Cleaner.
+5. In the **Item group** field, enter or select **Cleaner**.
 
-6. In the **Storage dimension group** field, enter or select SiteWH
+6. In the **Storage dimension group** field, enter or select **SiteWH**.
 
 7. In the **Tracking dimension group** field, enter or select
     **Batch-CP**.
@@ -252,13 +257,13 @@ You will have to do the following:
 
 3. In the **Product name** field, enter or select **Waste Water**.
 
-4. In the **Item model** group field, enter or select PI FEFO
+4. In the **Item model** group field, enter or select **PI FEFO**.
 
-5. In the **Item group** field, enter or select Cleaner.
+5. In the **Item group** field, enter or select **Cleaner**.
 
-6. In the **Storage dimension group** field, enter or select SiteWH.
+6. In the **Storage dimension group** field, enter or select **SiteWH**.
 
-7. In the **Tracking dimension group** field, enter or select Batch-CP.
+7. In the **Tracking dimension group** field, enter or select **Batch-CP**.
 
 8. In the **Inventory unit** field, enter or select **gal**.
 
@@ -288,14 +293,13 @@ You will have to do the following:
 
 3. In the **Product name** field, enter or select **Crude Oil**.
 
-4. In the **Item model group** field, enter or select PI-FEFO.
+4. In the **Item model group** field, enter or select **PI-FEFO**.
 
-5. In the **Item group** field, enter or select a value Cleaner.
+5. In the **Item group** field, enter or select **Cleaner**.
 
-6. In the **Storage dimension group** field, enter or select SiteWH.
+6. In the **Storage dimension group** field, enter or select **SiteWH**.
 
-7. In the **Tracking dimension group** field, enter or select a
-    Batch-CP.
+7. In the **Tracking dimension group** field, enter or select     **Batch-CP**.
 
 8. In the **Inventory unit** field, enter or select **gal**.
 
@@ -311,7 +315,7 @@ You will have to do the following:
     **Shelf life period in days** field.
 
 14. Expand the **Engineer** Fast Tab and select and in the **Production
-    type** field, select None.
+    type** field, select **None**.
 
 15. Select **Save**.
 
@@ -385,7 +389,7 @@ You will have to do the following:
 
 10. Select **OK**.
 
-11. In the **Lines** or **Header** field, select **Header**.
+11. In the **Lines** or **Header** tab, select **Header**.
 
 12. In the **Formula versions** grid, set the **Formula size** field to
     **500.00**.
@@ -394,14 +398,13 @@ You will have to do the following:
 
 **Add Formula Lines to Formula**
 
-1. In the **Lines** or **Header** field, select **Lines**.
+1. In the **Lines** or **Header** tab, select **Lines**.
 
 2. Select **New**.
 
-3. In the **Item number** field, enter or select **M12000**. 
+3. In the **Item number** field, enter or select **M12000**.
 
-    > **Note** When you select **New**, you may need to change the dropdown in the selection menu to **Other**, select the Item number and then select
-    **Ok**.
+    > **Note** When you select **New**, you may need to change the dropdown in the selection menu from **Production** to **Other**, select the Item number and then select **Ok**.
 
 4. In the **Warehouse** field, enter or select 11.
 
@@ -449,7 +452,7 @@ You will have to do the following:
 
 13. In the **By-product cost allocation** field, select Percent .
 
-14. Set **By-Product cost** **allocation percent** to **32**.
+14. Set **Cost allocation percent** to **32**.
 
 15. Select **Save**.
 

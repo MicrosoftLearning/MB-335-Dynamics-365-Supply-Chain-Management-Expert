@@ -50,10 +50,10 @@ Supply chain management case studies
   - You will be using the **USMF** legal entity.
 
   - You will be the SCM Functional consultant helping to streamline production controls, create BOMs, operations, and relation assignments.
-    
+  
 ### **Case study 3A: Discrete manufacturing**
 
--This case study will cover discrete manufacturing processes.
+- This case study will cover discrete manufacturing processes.
 
   - You will be using the **USMF** and **DEMF** legal entities.
 
@@ -67,7 +67,6 @@ Supply chain management case studies
 
   - You will be the SCM Functional consultant helping the create discrete production orders for manufacturing execution. 
   
-
 ### **Case study 3C: Lean manufacturing**
 
 - This case study will cover lean manufacturing processes.
@@ -103,6 +102,6 @@ Supply chain management case studies
 
 - This case study will cover the service management module.
 
- - You will be using the **USMF** legal entity.
+- You will be using the **USMF** legal entity.
 
- - You will be the SCM Functional consultant helping setup service orders from sales orders and service agreements.
+- You will be the SCM Functional consultant helping setup service orders from sales orders and service agreements.

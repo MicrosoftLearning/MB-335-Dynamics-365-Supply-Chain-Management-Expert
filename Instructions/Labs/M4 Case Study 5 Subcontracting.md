@@ -1,12 +1,12 @@
 ---
 lab:
-    title: 'Case study 3 Subcontracting'
-    module: 'Module 4 Configure production control'
+    title: 'Case study 5 Subcontracting'
+    module: 'Module 4 Configure and manage production control'
 ---
 
-# Module 4 Configure production control
+# Module 4 Configure and manage production control
 
-## Case study 3 Subcontracting
+## Case study 5 Subcontracting
 
 ### Exercise #1: Set up subcontracting features
 

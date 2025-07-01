@@ -1,12 +1,12 @@
 ---
 lab:
-    title: 'Case study 1C Lean manufacturing'
+    title: 'Case study 3C Lean manufacturing'
     module: 'Module 3 Implement production methods'
 ---
 
 # Module 3 Implement production methods
 
-## Case study 1C Lean manufacturing
+## Case study 3C Lean manufacturing
 
 ### Exercise #1: Create value streams
 

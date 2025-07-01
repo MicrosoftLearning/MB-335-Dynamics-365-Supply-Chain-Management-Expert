@@ -1,12 +1,12 @@
 ---
 lab:
-    title: 'Case study 2 Master planning'
-    module: 'Module 4 Configure production control'
+    title: 'Case study 4 Master planning'
+    module: 'Module 4 Configure and manage production control'
 ---
 
-# Module 4 Configure production control
+# Module 4 Configure and manage production control
 
-## Case study 2 Master planning
+## Case study 4 Master planning
 
 ### Exercise #1: Firm a planned order and change the order type
 

@@ -19,7 +19,7 @@ Case study instructions
 Supply chain management case studies
 ----------
 
-### **Case study 1A: Advanced product information features**  
+### **Case study 1A: Advanced product information features**
 
 - This case study will cover the product information management modules.
 
@@ -27,7 +27,7 @@ Supply chain management case studies
 
   - You will be the SCM Functional consultant helping in activating formulas for product types, setup commodity price calculations and catch weight items. 
   
-### **Case study 1B: Product configuration**  
+### **Case study 1B: Product configuration**
 
 - This case study will cover the product configurations.
 
@@ -35,7 +35,7 @@ Supply chain management case studies
 
   - You will be the SCM Functional consultant helping in product configuration models, attributes an subcomponents.
 
-### **Case study 1C: Engineering change management**  
+### **Case study 1C: Engineering change management**
 
 - This case study will cover the engineering change management module.
 
@@ -77,7 +77,7 @@ Supply chain management case studies
 
 ### **Case study 4: Master planning**
 
-- This case study will cover master planning. 
+- This case study will cover master planning.
 
   - You will be using the **SRHQ** and **USP2** legal entities.
 
@@ -88,20 +88,22 @@ Supply chain management case studies
 
 - This case study will cover subcontracting.
 
-- You will be using the **USMF** legal entity.
-- You will be the SCM Functional consultant helping with vendor collaboration.
+  - You will be using the **USMF** legal entity.
+
+  - You will be the SCM Functional consultant helping with vendor collaboration.
 
 ### **Case study 6: Create and process Rebate management**
 
 - This case study will cover the rebate management module.
 
   - You will be using the **USMF** legal entity.
+  
   - You will be the SCM Functional consultant helping manage rebates and rebate deals with source transactions.
 
 ### **Case study 7: Create and process Service management**
 
 - This case study will cover the service management module.
 
-- You will be using the **USMF** legal entity.
+  - You will be using the **USMF** legal entity.
 
-- You will be the SCM Functional consultant helping setup service orders from sales orders and service agreements.
+  - You will be the SCM Functional consultant helping setup service orders from sales orders and service agreements.

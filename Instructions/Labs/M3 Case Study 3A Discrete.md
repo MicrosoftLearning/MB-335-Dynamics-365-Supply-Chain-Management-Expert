@@ -1,7 +1,12 @@
 ---
 lab:
-    title: 'Case study 3A Discrete manufacturing'
-    module: 'Module 3 Implement production methods'
+  title: Case study 3A Discrete manufacturing
+  module: Module 3 Implement production methods
+  description: The minimum information required to create a production order is an
+    active bill of materials.
+  duration: 160 minutes
+  level: 200
+  islab: true
 ---
 
 # Module 3 Implement production methods

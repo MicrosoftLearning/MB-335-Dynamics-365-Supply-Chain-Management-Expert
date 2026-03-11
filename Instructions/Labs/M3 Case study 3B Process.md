@@ -1,7 +1,12 @@
 ---
 lab:
-    title: 'Case study 3B Process manufacturing'
-    module: 'Module 3 Implement production methods'
+  title: Case study 3B Process manufacturing
+  module: Module 3 Implement production methods
+  description: Company USPI has a new requirement for part P4000, polypropylene pellets,
+    to test and record the melting point for each batch is needed.
+  duration: 168 minutes
+  level: 100
+  islab: true
 ---
 
 # Module 3 Implement production methods

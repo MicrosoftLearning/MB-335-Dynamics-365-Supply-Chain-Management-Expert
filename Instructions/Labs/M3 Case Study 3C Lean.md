@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Case study 3C Lean manufacturing'
-    module: 'Module 3 Implement production methods'
+  title: Case study 3C Lean manufacturing
+  module: Module 3 Implement production methods
+  description: The Cycle for this production flow will define 1 day as the number of days used in automatic planning (i.e., EPE cycle is 1 day). The Add method of Kanban scheduling will be used if there is no capacity available during the required periods; the planning period type is Day and the planning time fence is 10. To the right are more details you will need for this task.
+  duration: 5 minutes
+  level: 200
+  islab: true
 ---
 
 # Module 3 Implement production methods

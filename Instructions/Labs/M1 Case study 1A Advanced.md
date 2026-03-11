@@ -1,7 +1,12 @@
 ---
 lab:
-    title: 'Case study 1A Advanced product information features'
-    module: 'Module 1  Configure products'
+  title: Case study 1A Advanced product information features
+  module: Module 1  Configure products
+  description: Contoso Process Company (USPI) has purchased a small oil refinery and
+    will start to manufacture gasoline from a stream of crude oil.
+  duration: 190 minutes
+  level: 100
+  islab: true
 ---
 
 # Module 1  Configure products 

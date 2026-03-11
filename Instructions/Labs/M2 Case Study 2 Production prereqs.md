@@ -1,7 +1,13 @@
 ---
 lab:
-    title: 'Case study 2 Production prerequisites'
-    module: 'Module 2 Configure production prerequisites'
+  title: Case study 2 Production prerequisites
+  module: Module 2 Configure production prerequisites
+  description: When you are starting to use the Production control module, you are
+    required to do some configurations that will help the system operate according
+    to your design and process design
+  duration: 164 minutes
+  level: 100
+  islab: true
 ---
 
 # Module 2 Configure production prerequisites

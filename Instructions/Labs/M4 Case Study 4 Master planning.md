@@ -1,7 +1,12 @@
 ---
 lab:
-    title: 'Case study 4 Master planning'
-    module: 'Module 4 Configure and manage production control'
+  title: Case study 4 Master planning
+  module: Module 4 Configure and manage production control
+  description: The Planning Manager at **USMF**, wants to know how to setup, manage
+    and use the master planning module and be able to process planned orders
+  duration: 144 minutes
+  level: 100
+  islab: true
 ---
 
 # Module 4 Configure and manage production control

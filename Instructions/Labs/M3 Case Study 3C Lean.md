@@ -1,7 +1,15 @@
 ---
 lab:
-    title: 'Case study 3C Lean manufacturing'
-    module: 'Module 3 Implement production methods'
+  title: Case study 3C Lean manufacturing
+  module: Module 3 Implement production methods
+  description: After defining and mapping the lean manufacturing value stream for
+    USMF, you are told to act as the value stream manager. You must create the value
+    stream within Microsoft Dynamics 365 Supply Chain Management
+  duration: 5 minutes
+  level: 200
+  islab: true
+  primarytopics:
+  - Dynamics 365
 ---
 
 # Module 3 Implement production methods

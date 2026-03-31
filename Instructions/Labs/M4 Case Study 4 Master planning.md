@@ -3,8 +3,8 @@ lab:
   title: Case study 4 Master planning
   module: Module 4 Configure and manage production control
   description: You will need to validate the intercompany master planning parameters and perform some setups before running the intercompany master plan. You will also need to run the intercompany plan using the intercompany planning\ group that you created and view the results in the intercompany supply and demand form
-  duration: 144 minutes
-  level: 100
+  duration: 40 minutes
+  level: 300
   islab: true
 ---
 

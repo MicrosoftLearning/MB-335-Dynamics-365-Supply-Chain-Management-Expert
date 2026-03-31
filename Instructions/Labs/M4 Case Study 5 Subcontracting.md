@@ -3,8 +3,8 @@ lab:
   title: Case study 5 Subcontracting
   module: Module 4 Configure and manage production control
   description: The production manager, want to get familiar with the setups before using the subcontracting features of Microsoft Dynamics 365 Supply Chain Management.
-  duration: 136 minutes
-  level: 200
+  duration: 50 minutes
+  level: 300
   islab: true
   primarytopics:
     - Dynamics 365

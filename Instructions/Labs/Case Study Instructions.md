@@ -3,7 +3,7 @@ lab:
   title: Case study instructions
   module: 'Module 0: Supply chain management case studies'
   description: Case study instructions =======================
-  duration: 32 minutes
+  duration: 2 minutes
   level: 100
   islab: true
 ---

@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Case study 1A Advanced product information features'
-    module: 'Module 1  Configure products'
+  title: Case study 1A Advanced product information features
+  module: Module 1  Configure products
+  description: You will help the product designer to create the items listed here within finance and operations using different production types to assist in the creation of formulas or recipes
+  duration: 190 minutes
+  level: 100
+  islab: true
 ---
 
 # Module 1  Configure products 

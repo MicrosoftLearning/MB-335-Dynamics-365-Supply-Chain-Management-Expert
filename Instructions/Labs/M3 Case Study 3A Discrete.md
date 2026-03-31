@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Case study 3A Discrete manufacturing'
-    module: 'Module 3 Implement production methods'
+  title: Case study 3A Discrete manufacturing
+  module: Module 3 Implement production methods
+  description: Create a new production order to test the previously created BOM
+  duration: 160 minutes
+  level: 200
+  islab: true
 ---
 
 # Module 3 Implement production methods

@@ -3,8 +3,8 @@ lab:
   title: Case study 3B Process manufacturing
   module: Module 3 Implement production methods
   description: The production manager wants to create a production order and process the order for a new batch of part P2000
-  duration: 168 minutes
-  level: 100
+  duration: 50 minutes
+  level: 300
   islab: true
 ---
 
